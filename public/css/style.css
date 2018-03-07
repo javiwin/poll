@@ -1,0 +1,9 @@
+body {
+    padding-top: 70px;
+}
+table.encuestas {
+    font-size: 1.2em;
+}
+.table tbody>tr>td.vmiddle{
+    vertical-align: middle;
+}
