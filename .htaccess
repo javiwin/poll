@@ -4,3 +4,5 @@
 	RewriteRule  ^$ public/ [L]
 	RewriteRule  (.*) public/$1 [L]
 </IfModule>
+
+##cabmio para la version 1.266666666666666666
